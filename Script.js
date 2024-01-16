@@ -1,5 +1,5 @@
 const people = ['Max', 'Nan', 'Rory', 'Jo', 'Jaden', 'Cas', 'Jared'];
-const tasks = ['Upstairs Bathroom', 'Downstairs Bathroom', 'Kitchen', 'Living Room', 'Hall', 'Landing', 'Kitchen'];
+const tasks = ['Upstairs Bathroom', 'Downstairs Bathroom', 'Kitchen', 'Living Room', 'Hall', 'Landing', 'Break Week'];
 
 let weekOffset = 0;
 
